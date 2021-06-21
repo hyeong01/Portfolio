@@ -26,7 +26,7 @@
   * 재무재표 작성 자동화 구현
 * [대만국립대학교](https://www.ntu.edu.tw/english/index.html) (NTU) 교환학생 (2020.02 ~ 2020.06)
   * [Graduate Institute of Electronics Engineering](https://www.ntu.edu.tw/english/academics/academics_electrical.html) Machine Learning Optimization Seminar
-  *  [Graduate Institute of Industrial Engineering](https://ie.ntu.edu.tw/english/Default.html) Data Analytics Semester Project
+  * [Graduate Institute of Industrial Engineering](https://ie.ntu.edu.tw/english/Default.html) Data Analytics Semester Project
 * 연세대학교 컴퓨터과학과 동아리 PoolC (2020.03 ~ 현재)
   * [컴퓨터과학 지식 스터디](https://www.notion.so/c7393741a82448c483204f37b9067ae5)
   * [알고리즘 세미나](https://velog.io/@hyeong/Solved-Algorithm-Problem-List)
@@ -49,7 +49,7 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 ### _COVID-19 CT SCAN Detection_
 `#Python` `#Statistical ML` `#Deep Learning` `#대만국립대학교` `#산업공학과 대학원`
 
-[GitHub Link]()
+[GitHub Link]() <br>
 [최종 발표](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
 
 코로나 환자의 폐를 분석하여 코로나 감염를 여부 확인하는 프로젝트
@@ -61,8 +61,47 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 ### _크라우드 펀딩 데이터 컨설팅 서비스_
 `#WEB` `#Python` `#Postgre SQL` `#Linux` `#AWS` `#BERT` `#Statistical ML`
 
-[Github Link](https://github.com/whoareyouwhoami/ProjectTellus)
-[사용 방법](https://github.com/whoareyouwhoami/KickHelpers.com)
+[Github Link](https://github.com/whoareyouwhoami/ProjectTellus) <br>
+[사용 방법](https://github.com/whoareyouwhoami/KickHelpers.com) <br>
 [사용 방법(동영상)](https://www.youtube.com/watch?v=Ip4ZgvXLvSI)
 
-킥스타터 제공 데이터를 이용해 펀딩 성공 
+킥스타터 데이터를 이용 크라우드 펀딩 프로젝트의 성공 확률 및 컨설팅 제공
+- NLP 모델, 통계적 머신러닝 모델 구현 및 학습
+- 백엔드 엔지니어, 프론트엔드 엔지니어들과 명확한 경계를 가지고 협업하는 값진 기회
+- SQL 실사용
+##
+
+### _응급 의료 접근성 분석 과제_
+`#의료경제학 학기 프로젝트` `#통계조사` `#회귀분석` `#크롤링` `#Python`
+
+[Source Codes](https://github.com/hyeong01/Emergency-Medical-Accessibility) <br>
+[분석 발표]()
+
+한국 내 지역별 의료 접근성의 차이와 이로 인한 사망률의 차이 분석
+- 한국 전체 주소 데이터에서 광역자치단체별로 1000개씩 표본 추출
+- 네이버 지도를 이용해 각 표본과 가장 가까운 응급실까지 걸리는 시간을 계산
+- 급성 심정지 생존률 등의 의료 서비스 지수와 평균 소요 시간의 회귀분석 진행. 시도별 평균 나이 등의 변수 제거
+- 광역자치단체별로 응급 의료 접근성의 차이가 크고, 이 차이로 인해 사망률로 크게 달라진다는 결론
+- 경제학, 통계학, 데이터 전처리, 기술 스택, 논리 전개 등 대학에서 습득한 지식을 총 망라하는 통섭적이고 완성도 높은 프로젝트
+## 
+
+### _인텔 AI 드론 챌린지_
+`#드론` `#Python` `#MobileNet2`
+
+[수상내역](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
+
+드론을 조종하여 영상 촬영과 동시에 실시간으로 영상을 속 사물을 판별하는 프로젝트
+- 데이터 크롤링, 모델링, 드론 조종 담당
+- 나이 차이가 큰 팀원들과 함께 협업하는 새로운 경험
+##
+
+### _카카오톡 자연어처리 MBTI 분류 프로젝트_
+`#YBIGTA 동아리 학기말 프로젝트` `#BERT`
+
+[Github Link]()
+
+카카오톡 대화를 입력하면 MBTI를 알려주는 서비스
+- 네이버 MBTI 카페 텍스트 데이터 이용 KoBert 학습
+- 모델 학습과 구현 담당
+##
+
