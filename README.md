@@ -30,7 +30,7 @@
 * 연세대학교 컴퓨터과학과 동아리 PoolC (2020.03 ~ 현재)
   * [컴퓨터과학 지식 스터디](https://www.notion.so/c7393741a82448c483204f37b9067ae5)
   * [알고리즘 세미나](https://velog.io/@hyeong/Solved-Algorithm-Problem-List)
-  * 안드로이드 앱 기발 세미나
+  * 안드로이드 앱 발 세미나
 
 ## 프로젝트
 
