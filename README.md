@@ -49,7 +49,6 @@ MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 �
 ### _COVID-19 CT SCAN Detection_
 `#Python` `#Statistical ML` `#Deep Learning` `#대만국립대학교` `#산업공학과 대학원`
 
-[GitHub Link]() <br>
 [최종 발표](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
 
 코로나 환자의 폐를 분석하여 코로나 감염 여부를 확인하는 프로젝트
