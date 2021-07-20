@@ -40,7 +40,7 @@
 [GitHub Link](https://github.com/Nanjangpan/Game-bot-detection) <br>
 [수상내역](https://www.kisis.or.kr/kisis/subIndex/282.do)
 
-MMORPG Aion의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇을 탐지하는 대회
+MMORPG AON의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇을 탐지하는 대회
 - 데이터 분석, 모델 제작 담당
 - 대용량 로그 데이터를 전처리
 - 다양한 머신러닝 기법으로 게임 봇 탐지
