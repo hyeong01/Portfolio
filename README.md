@@ -105,7 +105,7 @@ MMORPG AON의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇
 ### _Machine Learning Optimization Seminar_
 `#Python` `#Deep Learning` `#CNN` `#C` `#MATLAB` `#Tensorflow` `#Linux` `#AWS` `#OpenMP` `#대만국립대학교` `#컴퓨터과학과 대학원`
 
-[Paper]()
+[Paper1](), [Paper2](), [Paper3](), [Paper4]()
 
 MATLAB으로 구현한 CNN을 OpenMP를 통해 C로 재설계하여 학습 속도를 증가시키는 세미나 수업
 - C, Matlab, Python부터, 리눅스 프로그래밍, 컴퓨터 메모리의 작동 방식 등 CS 지식까지 모두 필요했던 통섭적인 세미나 
