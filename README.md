@@ -74,7 +74,7 @@ MMORPG AON의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇
 `#의료경제학 학기 프로젝트` `#통계조사` `#회귀분석` `#크롤링` `#Python`
 
 [Source Codes](https://github.com/hyeong01/Emergency-Medical-Accessibility) <br>
-[분석 발표]()
+[분석 발표](https://drive.google.com/file/d/1oxgDFhnuKv_zIlZ9ixoEksBy26_LSX7C/view)
 
 한국 내 지역별 의료 접근성의 차이와 이로 인한 사망률의 차이 분석
 - 한국 전체 주소 데이터에서 광역자치단체별로 1000개씩 표본 추출
