@@ -1,4 +1,5 @@
 # 포트폴리오 (한국어)
+[English Ver](https://docs.google.com/document/d/1GTuq1VBRmF5QnrNoz6IJj8Ujg3RmVhIr/edit)
 ## 약력
 * 이름: 정희영
 * 출생년월: 1995.12.24
