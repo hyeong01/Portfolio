@@ -42,6 +42,17 @@ Analyzed the discrepancy in medical accessibility by region and its effect on fa
 - A comprehensive project involving economics, statistics, data preprocessing, and programming. 
 ## 
 
+### _COVID-19 CT SCAN Detection_ | 2020
+`#Python` `#Statistical ML` `#Deep Learning` `#National Taiwan University` `#Graduate School of Industrial Engineering`
+
+[Final Presentation](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
+
+Developed methods to diagnoze COVID-19 with CT scans of the lungs infected with COVID-19
+- Work in as a team of three with an undergraduate student, a masters student, and a phd student
+- Final project for the semester
+- Trained deep learning model, visualized the result with tensorbaord, and analyzed the data
+##
+
 ### _Information Protection R&D Data Challenge 2019 Game-bot-detection Competition_
 `#Python` `#Machine Learning` `#2nd Place`
 
@@ -54,21 +65,8 @@ A competition detecting game bots in MMORPG AION by analyzing the game logs
 - Developed our own index for bot detection by analyzing the log on a daily scale
 ##
 
-### _COVID-19 CT SCAN Detection_
-`#Python` `#Statistical ML` `#Deep Learning` `#National Taiwan University` `#Graduate School of Industrial Engineering`
-
-[Final Presentation](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
-
-Developed methods to diagnoze COVID-19 with CT scans of the lungs infected with COVID-19
-- Work in as a team of three with an undergraduate student, a masters student, and a phd student
-- Final project for the semester
-- Trained deep learning model, visualized the result with tensorbaord, and analyzed the data
-##
-
 ### _Intel AI Drone Challenge_
 `#Drone` `#Python` `#MobileNet2`
-
-[Prize Details](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
 
 드론을 조종하여 영상 촬영과 동시에 실시간으로 영상을 속 사물을 판별하는 프로젝트
 - 데이터 크롤링, 모델링, 드론 조종 담당
