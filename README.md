@@ -27,47 +27,48 @@ Applied new implementations by C to MATLAB implementation of CNN via OpenMP for 
 - A comprehensive seminar that required the knowledge ranging from diverse programming language of  C, Matlab, and Pyhton, to AWS, linux, and data structures.
 ##
 
-### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_
-`#Python` `#Machine Learning` `#우수상`
+### _Emergency Medical Accessibility Analysis_
+`#Health Economics` `#Regression` `#Commercial API` `#Undergraduate Research` `#Python`
+
+[Source Codes](https://github.com/hyeong01/Emergency-Medical-Accessibility) <br>
+[Research Presentation](https://drive.google.com/file/d/1oxgDFhnuKv_zIlZ9ixoEksBy26_LSX7C/view)
+
+Analyzed the discrepancy in medical accessibility by region and its effect on fatality rate
+- Sampled 1000 addresses per each region from a database for the whole Korean addresses, with a total of 17 regions.
+- Using a commercial navigation service, calcuated the time to get from each address to the nearest emergency medical facility.
+- Analyzed the relationship between the average accessibilty time and medical service index such as the survival rate of acute cardiac arrest. 
+- Removed the effect of other potential variables through regression.
+- Conclusion: emergency medical accessibility differs signifcantly by region, and the difference is likely affect the fatality rate.
+- A comprehensive project involving economics, statistics, data preprocessing, and programming. 
+## 
+
+### _Information Protection R&D Data Challenge 2019 Game-bot-detection Competition_
+`#Python` `#Machine Learning` `#2nd Place`
 
 [GitHub Link](https://github.com/Nanjangpan/Game-bot-detection) <br>
-[수상내역](https://www.kisis.or.kr/kisis/subIndex/282.do)
+[Prize Details](https://www.kisis.or.kr/kisis/subIndex/282.do)
 
-MMORPG AON의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇을 탐지하는 대회
-- 데이터 분석, 모델 제작 담당
-- 대용량 로그 데이터를 전처리
-- 매크로 탐지 지표 개발
+A competition detecting game bots in MMORPG AION by analyzing the game logs
+- Took part in analyzing data and selecting models
+- Preprocessed 120GB game log data
+- Developed our own index for bot detection by analyzing the log on a daily scale
 ##
 
 ### _COVID-19 CT SCAN Detection_
-`#Python` `#Statistical ML` `#Deep Learning` `#대만국립대학교` `#산업공학과 대학원`
+`#Python` `#Statistical ML` `#Deep Learning` `#National Taiwan University` `#Graduate School of Industrial Engineering`
 
-[최종 발표](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
+[Final Presentation](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
 
-코로나 환자의 폐를 분석하여 코로나 감염 여부를 확인하는 프로젝트
-- 한 학기 동안 박사, 석사, 학사생 총 3명이 함께 여러 과제와 프로젝트를 진행
-- 학기말 최종 프로젝트
-- DL 모델 훈련, tensorboard를 이용한 시각화, 데이터 분석 담당
+Developed methods to diagnoze COVID-19 with CT scans of the lungs infected with COVID-19
+- Work in as a team of three with an undergraduate student, a masters student, and a phd student
+- Final project for the semester
+- Trained deep learning model, visualized the result with tensorbaord, and analyzed the data
 ##
 
-### _응급 의료 접근성 분석 과제_
-`#의료경제학 학기 프로젝트` `#통계조사` `#회귀분석` `#크롤링` `#Python`
+### _Intel AI Drone Challenge_
+`#Drone` `#Python` `#MobileNet2`
 
-[Source Codes](https://github.com/hyeong01/Emergency-Medical-Accessibility) <br>
-[분석 발표](https://drive.google.com/file/d/1oxgDFhnuKv_zIlZ9ixoEksBy26_LSX7C/view)
-
-한국 내 지역별 의료 접근성의 차이와 이로 인한 사망률의 차이 분석
-- 한국 전체 주소 데이터에서 광역자치단체별로 1000개씩 표본 추출
-- 네이버 지도를 이용해 각 표본과 가장 가까운 응급실까지 걸리는 시간을 계산
-- 급성 심정지 생존률 등의 의료 서비스 지수와 평균 소요 시간의 회귀분석 진행. 시도별 평균 나이 등의 변수 제거
-- 광역자치단체별로 응급 의료 접근성의 차이가 크고, 이 차이로 인해 사망률로 크게 달라진다는 결론
-- 경제학, 통계학, 데이터 전처리, 기술 스택, 논리 전개 등 대학에서 습득한 지식을 총망라하는 프로젝트
-## 
-
-### _인텔 AI 드론 챌린지_
-`#드론` `#Python` `#MobileNet2`
-
-[수상내역](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
+[Prize Details](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
 
 드론을 조종하여 영상 촬영과 동시에 실시간으로 영상을 속 사물을 판별하는 프로젝트
 - 데이터 크롤링, 모델링, 드론 조종 담당
