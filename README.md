@@ -8,9 +8,9 @@ E-mail: heeyoungmy@yonsei.ac.kr </br>
 ### _Naver AI Boostcamp | Fall 2021
 `#Python` `#Linux` `#PyTorch` `#NLP` `#CV` `#Optimization` `#Machine Reading Comprehension` `#Relation Extraction` `#HuggingFace`
 
-[Object Detection Competition](https://github.com/boostcampaitech2/image-classification-level1-30)
-[Relation Extraction Competition](https://github.com/boostcampaitech2/klue-level2-nlp-08)
-[Study Log](https://hyeong01.github.io/categories/)
+[Object Detection Competition](https://github.com/boostcampaitech2/image-classification-level1-30) </br>
+[Relation Extraction Competition](https://github.com/boostcampaitech2/klue-level2-nlp-08) </br>
+[Study Log](https://hyeong01.github.io/categories/) </br>
 
 Participated in competitions for object detection, relation extraction, machine learning comprehension and optimization of models. Studied deep learning models and frameworks such as Docker and HuggingFace.
 ##
