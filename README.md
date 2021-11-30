@@ -5,7 +5,7 @@ E-mail: heeyoungmy@yonsei.ac.kr </br>
 
 ## Projects
 
-### _Naver AI Boostcamp | Fall 2021
+### _Naver AI Boostcamp_ | Fall 2021
 `#Python` `#Linux` `#PyTorch` `#NLP` `#CV` `#Optimization` `#Machine Reading Comprehension` `#Relation Extraction` `#HuggingFace`
 
 [Object Detection Competition](https://github.com/boostcampaitech2/image-classification-level1-30) </br>
