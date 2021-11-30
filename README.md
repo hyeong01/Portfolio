@@ -1,7 +1,7 @@
 # Portfolio
 ## About
 Name: Hee Young, Jung </br>
-E-mail: heeyoungmy@yonsei.ac.kr
+E-mail: heeyoungmy@yonsei.ac.kr </br>
 
 ## Projects
 
