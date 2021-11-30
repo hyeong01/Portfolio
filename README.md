@@ -23,7 +23,7 @@ Using Data from Kickstaters, provided the success probability and consulting ser
 
 [Paper1](https://drive.google.com/file/d/1wB07L8HOzBTs1myBzXWTezAlmOZYZ87b/view?usp=sharing), [Paper2](https://drive.google.com/file/d/1P8NCw7mchoivFPdRvJveuB0F2BsWJUwr/view?usp=sharing), [Paper4](https://drive.google.com/file/d/1T8DCpRTjOoDEUBXWG9-hE6qKDHYw1KCF/view?usp=sharing), [Paper5](https://drive.google.com/file/d/1819iXIHv5MEqzTQLBIK3xRthhZJ7nddy/view?usp=sharing), [Paper6](https://drive.google.com/file/d/1r4pRdmk62SNxR1ANTgq7DiJXNDPa-1S5/view?usp=sharing)
 
-Applied a new implementation by C to MATLAB implementation of CNN via OpenMP for optimization.
+Applied new implementations by C to MATLAB implementation of CNN via OpenMP for optimization.
 - A comprehensive seminar that required the knowledge ranging from diverse programming language of  C, Matlab, and Pyhton, to AWS, linux, and data structures.
 ##
 
