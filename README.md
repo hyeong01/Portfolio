@@ -1,4 +1,8 @@
 # Portfolio
+## About
+Name: Hee Young, Jung
+E-mail: heeyoungmy@yonsei.ac.kr
+
 ## Projects
 
 ### _Data Consulting Service for Crowdfunding_
@@ -8,10 +12,10 @@
 [How to Use](https://github.com/whoareyouwhoami/KickHelpers.com) <br>
 [How to Use (Video)](https://www.youtube.com/watch?v=Ip4ZgvXLvSI)
 
-킥스타터 데이터를 이용 크라우드 펀딩 프로젝트의 성공 확률 및 컨설팅 제공
-- NLP 모델, 통계적 머신러닝 모델 구현 및 학습
-- 백엔드 엔지니어, 프론트엔드 엔지니어들과 명확한 경계를 가지고 협업하는 값진 기회
-- SQL 실사용
+Using Data from Kickstaters, provided the success probability and consulting service
+- Implemented and trained NLP model and statistical nachine learning models
+- Worked with a clear distinction of roles in backend engineer, modeling engineer, a frontend engineer 
+- Pratical use of SQL
 ##
 
 ### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_
