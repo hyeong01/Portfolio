@@ -22,7 +22,7 @@ Excelled in competitions for object detection, relation extraction, open domain 
 [Paper1](https://drive.google.com/file/d/1wB07L8HOzBTs1myBzXWTezAlmOZYZ87b/view?usp=sharing), [Paper2](https://drive.google.com/file/d/1P8NCw7mchoivFPdRvJveuB0F2BsWJUwr/view?usp=sharing), [Paper4](https://drive.google.com/file/d/1T8DCpRTjOoDEUBXWG9-hE6qKDHYw1KCF/view?usp=sharing), [Paper5](https://drive.google.com/file/d/1819iXIHv5MEqzTQLBIK3xRthhZJ7nddy/view?usp=sharing), [Paper6](https://drive.google.com/file/d/1r4pRdmk62SNxR1ANTgq7DiJXNDPa-1S5/view?usp=sharing)
 
 Improved a deep learning framework in MATLAB by applying optimized computational processes implemented in C via OpenMP. The methods for optimization include changing memory access sequence and multithreading.
-- A comprehensive seminar that required the CS knowledge such as AWS, linux, data structures, and diverse programming language of  C, Matlab, and Python.
+- A comprehensive seminar that required the CS knowledge such as AWS, linux, data structures, and diverse programming languages of  C, Matlab, and Python.
 ##
 
 ### _Emergency Medical Accessibility Analysis_ | Fall 2020
