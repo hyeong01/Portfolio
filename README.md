@@ -46,7 +46,7 @@ Analyzed the discrepancy in medical accessibility by region and its effect on fa
 [Final Presentation](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
 
 Developed methods to diagnoze COVID-19 with CT scans of the lungs infected with COVID-19
-- Work in as a team of three with an undergraduate student, a masters student, and a phd student
+- Worked as a team of three with an undergraduate student, a masters student, and a phd student
 - Final project for the semester
 - Trained deep learning model, visualized the result with tensorbaord, and analyzed the data
 ##
