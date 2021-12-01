@@ -10,7 +10,7 @@ E-mail: heeyoungmy@yonsei.ac.kr </br>
 
 [Object Detection Competition Code](https://github.com/boostcampaitech2/image-classification-level1-30) </br>
 [Relation Extraction Competition Code](https://github.com/boostcampaitech2/klue-level2-nlp-08) | [Relation Extraction Competition Review (Korean)](https://cheonggyemountain-sherpa.github.io/KLUE_RE/)</br>
-[Open Domain Question Answering Review (Korean)](https://cheonggyemountain-sherpa.github.io/MRC-Open-Domain-Question-Answering/) </br>
+[Open Domain Question Answering Competition Review (Korean)](https://cheonggyemountain-sherpa.github.io/MRC-Open-Domain-Question-Answering/) </br>
 [Study Log](https://hyeong01.github.io/categories/) </br>
 
 Participated in competitions for object detection, relation extraction, open domain question answering and optimization of models. Studied deep learning models and frameworks such as Docker and HuggingFace.
