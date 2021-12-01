@@ -78,7 +78,7 @@ A competition detecting game bots in MMORPG AION by analyzing the game logs
 ##
 
 ### _Sports Gear Brand 'Pulse'_ | May 2019 - Current
-`#Marketing` #Designing` `#Finance` `#Product Sourcing`
+`#Marketing` `#Designing` `#Finance` `#Product Sourcing`
 
 [Store Link](https://smartstore.naver.com/pulz) <br>
 
