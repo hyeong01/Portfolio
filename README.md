@@ -86,6 +86,6 @@ A competition to detect game bots in MMORPG AION by analyzing the game logs
 
 Founded a sports gear brand
 - Increased business efficiency by outsourcing and automation
-- Valuable opportunity to gain insight in starting and running a company
+- Gained an insight in starting and running a company
 - Sourced, designed, and marketed the product
 ##
