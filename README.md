@@ -50,7 +50,6 @@ Analyzed the inequalities in medical accessibility by region and its implication
 A graduate level research that developed methods to diagnose COVID-19 with CT scans of lungs infected with COVID-19
 - Collaborated with graduate students to expansively apply diverse deep learning, statistical machine learning, and visualization methods to COVID-19 diagnosis
 - Final project for the semester
-- Trained deep learning model, visualized the result with tensorbaord, and analyzed the data
 ##
 
 ### _Data Consulting Service for Crowdfunding_ | Fall 2019
