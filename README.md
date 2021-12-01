@@ -75,7 +75,7 @@ Distributed a consulting service on web, which predicted the likelihood of a cro
 
 A competition to detect game bots in MMORPG AION by analyzing the game logs
 - Analyzed data and selected models
-- Preprocessed 120GB game log data
+- Managed 120GB of game log data
 - Developed our own index for bot detection by analyzing the log on a daily scale
 ##
 
