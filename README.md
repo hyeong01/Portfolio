@@ -31,7 +31,7 @@ Improved a deep learning framework in MATLAB by applying optimized computational
 [Source Codes](https://github.com/hyeong01/Emergency-Medical-Accessibility) <br>
 [Research Presentation](https://drive.google.com/file/d/1oxgDFhnuKv_zIlZ9ixoEksBy26_LSX7C/view)
 
-Analyzed the discrepancy in medical accessibility by region and its effect on fatality rate
+Analyzed the discrepancy in medical accessibility by region and its implications
 - Sampled 1000 addresses per each region from a database for the whole Korean addresses, with a total of 17 regions.
 - Using a commercial navigation API, calcuated the time to get from each address to the nearest emergency medical facility.
 - Analyzed the relationship between the average accessibilty time and medical service index such as the survival rate from acute cardiac arrest. 
