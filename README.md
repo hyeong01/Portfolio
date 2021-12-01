@@ -13,7 +13,7 @@ E-mail: heeyoungmy@yonsei.ac.kr </br>
 [Open Domain Question Answering Competition Review (Korean)](https://cheonggyemountain-sherpa.github.io/MRC-Open-Domain-Question-Answering/) </br>
 [Study Log](https://hyeong01.github.io/categories/) </br>
 
-Participated in competitions for object detection, relation extraction, open domain question answering and optimization of models. Studied deep learning models and frameworks such as Docker and HuggingFace.
+Excelled in competitions for object detection, relation extraction, open domain question answering and optimization of models. Studied deep learning models and frameworks such as Docker and HuggingFace.
 ##
 
 ### _Machine Learning Optimization Seminar_ | Spring 2020
@@ -21,7 +21,7 @@ Participated in competitions for object detection, relation extraction, open dom
 
 [Paper1](https://drive.google.com/file/d/1wB07L8HOzBTs1myBzXWTezAlmOZYZ87b/view?usp=sharing), [Paper2](https://drive.google.com/file/d/1P8NCw7mchoivFPdRvJveuB0F2BsWJUwr/view?usp=sharing), [Paper4](https://drive.google.com/file/d/1T8DCpRTjOoDEUBXWG9-hE6qKDHYw1KCF/view?usp=sharing), [Paper5](https://drive.google.com/file/d/1819iXIHv5MEqzTQLBIK3xRthhZJ7nddy/view?usp=sharing), [Paper6](https://drive.google.com/file/d/1r4pRdmk62SNxR1ANTgq7DiJXNDPa-1S5/view?usp=sharing)
 
-Applied new implementations by C to MATLAB implementation of CNN via OpenMP for optimization. The methods for optimization include memory access sequence change and multithreading.
+Improved deep learning frameworki n MATLAB by applying optimized computational process implemented in C via OpenMP. The methods for optimization include changing memory access sequence and multithreading.
 - A comprehensive seminar that required the knowledge ranging from diverse programming language of  C, Matlab, and Pyhton, to AWS, linux, and data structures.
 ##
 
@@ -45,7 +45,7 @@ Analyzed the discrepancy in medical accessibility by region and its effect on fa
 
 [Final Presentation](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
 
-Developed methods to diagnoze COVID-19 with CT scans of the lungs infected with COVID-19
+A research that developed methods to diagnoze COVID-19 with CT scans of the lungs infected with COVID-19
 - Worked as a team of three with an undergraduate student, a masters student, and a phd student
 - Final project for the semester
 - Trained deep learning model, visualized the result with tensorbaord, and analyzed the data
@@ -58,8 +58,9 @@ Developed methods to diagnoze COVID-19 with CT scans of the lungs infected with 
 [How to Use](https://github.com/whoareyouwhoami/KickHelpers.com) <br>
 [How to Use (Video)](https://www.youtube.com/watch?v=Ip4ZgvXLvSI)
 
-Using Data from Kickstaters, provided the success probability and consulting service
-- Implemented and trained NLP model and statistical machine learning models
+A web service that provided the success probability of a crowdfunding project and consulting service
+- Used data from Kickstaters
+- Adopted a NLP model and statistical machine learning models
 - Worked with a clear distinction of roles with backend engineer, modeling engineer, a frontend engineer 
 - Pratical use of SQL
 ##
@@ -74,4 +75,15 @@ A competition detecting game bots in MMORPG AION by analyzing the game logs
 - Took part in analyzing data and selecting models
 - Preprocessed 120GB game log data
 - Developed our own index for bot detection by analyzing the log on a daily scale
+##
+
+### _Sports Gear Brand 'Pulse'_ | May 2019 - Current
+`#Marketing` #Designing` `#Finance` `#Product Sourcing`
+
+[Store Link](https://smartstore.naver.com/pulz) <br>
+
+A sports gear brand that I founded
+- Automized and outsourced parts of the business to reduce workload, producing stable income with minimal use of time
+- Valuable opportunity to gain insight in starting and running a company
+- Sourced, designed, and marketed the product, managing the company alone
 ##
