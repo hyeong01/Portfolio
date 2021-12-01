@@ -85,7 +85,8 @@ A competition to detect game bots in MMORPG AION by analyzing the game logs
 [Store Link](https://smartstore.naver.com/pulz) <br>
 
 Founded a sports gear brand
-- Automized and outsourced parts of the business to reduce workload, producing stable income with minimal use of time
+- Increased business efficiency by outsourcing and automation.
+- Automized and outsourced aparts of the business to reduce workload, producing stable income with minimal use of time
 - Valuable opportunity to gain insight in starting and running a company
 - Sourced, designed, and marketed the product
 ##
