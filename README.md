@@ -59,7 +59,8 @@ A graduate level research that developed methods to diagnose COVID-19 with CT sc
 [How to Use](https://github.com/whoareyouwhoami/KickHelpers.com) <br>
 [How to Use (Video)](https://www.youtube.com/watch?v=Ip4ZgvXLvSI)
 
-A web service that provided the success probability of a crowdfunding project and consulting service
+Distributed a consulting service on web, which predicted the likelihood of a crowd funding project and suggested the ways to improve it using machine learning and visualization
+
 - Used data from Kickstaters
 - Adopted a NLP model and statistical machine learning models
 - Worked with a clear distinction of roles with backend engineer, modeling engineer, a frontend engineer 
