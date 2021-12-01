@@ -59,8 +59,8 @@ Developed methods to diagnoze COVID-19 with CT scans of the lungs infected with 
 [How to Use (Video)](https://www.youtube.com/watch?v=Ip4ZgvXLvSI)
 
 Using Data from Kickstaters, provided the success probability and consulting service
-- Implemented and trained NLP model and statistical nachine learning models
-- Worked with a clear distinction of roles in backend engineer, modeling engineer, a frontend engineer 
+- Implemented and trained NLP model and statistical machine learning models
+- Worked with a clear distinction of roles with backend engineer, modeling engineer, a frontend engineer 
 - Pratical use of SQL
 ##
 
