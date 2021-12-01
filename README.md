@@ -64,7 +64,7 @@ Distributed a consulting service on web, which predicted the likelihood of a cro
 - Used data from Kickstaters
 - Adopted a NLP model and statistical machine learning models
 - Worked with a clear distribution of roles as a backend engineer, a modeling engineer, and a frontend engineer 
-- Adopted PostgreSQL for efficient data management
+- Utilized PostgreSQL for efficient data management
 ##
 
 ### _Information Protection R&D Data Challenge 2019 Game-bot-detection Competition_ | Sep 2019
