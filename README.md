@@ -34,7 +34,7 @@ Improved a deep learning framework in MATLAB by applying optimized computational
 Analyzed the inequalities in medical accessibility by region and its implications
 - Investigated 1,000 samples per each region from the database for all Korean addresses, with a total of 17 regions.
 - Using a commercial navigation API, calcuated the time to get from each address to the nearest emergency medical facility.
-- Analyzed the relationship between the average accessibilty time and medical service index such as the survival rate from acute cardiac arrest. 
+- Analyzed the relationship between the average accessibilty time and medical service index such as the survival rate from heart attacks. 
 - Removed the effect of other potential variables through regression.
 - Conclusion: emergency medical accessibility differs signifcantly by region, and the difference is likely affecting the fatality rate.
 - A comprehensive project involving economics, statistics, data preprocessing, and programming. 
