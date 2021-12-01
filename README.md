@@ -63,7 +63,7 @@ Distributed a consulting service on web, which predicted the likelihood of a cro
 
 - Used data from Kickstaters
 - Adopted a NLP model and statistical machine learning models
-- Worked with a clear distribution of roles as backend engineer, modeling engineer, and a frontend engineer 
+- Worked with a clear distribution of roles as a backend engineer, a modeling engineer, and a frontend engineer 
 - Pratical use of SQL
 ##
 
