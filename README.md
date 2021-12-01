@@ -47,8 +47,8 @@ Analyzed the inequalities in medical accessibility by region and its implication
 
 [Final Presentation](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
 
-A research that developed methods to diagnose COVID-19 with CT scans of lungs infected with COVID-19
-- Worked as a team of three with graduates students
+A graduate level research that developed methods to diagnose COVID-19 with CT scans of lungs infected with COVID-19
+- Worked as a team of three
 - Final project for the semester
 - Trained deep learning model, visualized the result with tensorbaord, and analyzed the data
 ##
