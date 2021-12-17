@@ -25,7 +25,8 @@ Excelled in competitions for object detection, relation extraction, open domain 
 
 Improved a deep learning framework in MATLAB by applying optimized computational processes implemented in C via OpenMP. The methods for optimization include changing memory access sequence and multithreading. <br>
 * A comprehensive seminar that required the CS knowledge such as AWS, linux, data structures, and diverse programming languages of  C, Matlab, and Python.
-##  
+
+---
 
 ### _Emergency Medical Accessibility Analysis_ | Fall 2020
 `#Health Economics` `#Regression` `#Commercial API` `#Undergraduate Research` `#Python`
@@ -40,7 +41,8 @@ Analyzed the inequalities in medical accessibility by region and its implication
 * Removed the effects of other potential variables through regression.
 * Conclusion: emergency medical accessibility differs signifcantly by region, and the difference is likely affecting its fatality rate.
 * A comprehensive project involving economics, statistics, data preprocessing, and programming. 
-##  
+
+---
 
 ### _COVID-19 CT SCAN Detection_ | Spring 2020
 `#Python` `#Statistical ML` `#Deep Learning` `#National Taiwan University` `#Graduate School of Industrial Engineering`
@@ -50,7 +52,8 @@ Analyzed the inequalities in medical accessibility by region and its implication
 A graduate level research that developed methods to diagnose COVID-19 with CT scans of lungs infected with COVID-19 <br>
 * Collaborated with graduate students to expansively apply diverse deep learning, statistical machine learning, and visualization methods to COVID-19 diagnosis
 * Final project for the semester
-##  
+
+---
 
 ### _Data Consulting Service for Crowdfunding_ | Fall 2019
 `#WEB` `#Python` `#Postgre SQL` `#Linux` `#AWS` `#BERT` `#Statistical ML`
@@ -64,7 +67,8 @@ Distributed a consulting service on web, which predicted the likelihood of a cro
 * Adopted a NLP model and statistical machine learning models
 * Worked with a clear distribution of roles as a backend engineer, a modeling engineer, and a frontend engineer 
 * Utilized PostgreSQL for efficient data management
-##  
+
+---
 
 ### _Information Protection R&D Data Challenge 2019 Game-bot-detection Competition_ | Sep 2019
 `#Python` `#Machine Learning` `#2nd Place`
@@ -76,7 +80,8 @@ A competition to detect game bots in MMORPG AION by analyzing the game logs <br>
 * Managed 120GB of game log data
 * Developed our own index for bot detection by analyzing individual logs on a daily scale
 * Used the index on a statistical machine learning model, which increased the f1 score by 20 points
-##  
+
+---
 
 ### _Sports Gear Brand 'Pulse'_ | May 2019 - Current
 `#Marketing` `#Designing` `#Finance` `#Product Sourcing`
@@ -88,4 +93,5 @@ Founded a sports gear brand <br>
 * Gained an insight in starting and running a company
 * Sourced, designed, and marketed the product
 * All products were sold through an e-commerceplatform
-##  
+
+---
