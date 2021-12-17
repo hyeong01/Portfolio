@@ -32,13 +32,13 @@ Improved a deep learning framework in MATLAB by applying optimized computational
 [Source Codes](https://github.com/hyeong01/Emergency-Medical-Accessibility) <br>
 [Research Presentation](https://drive.google.com/file/d/1oxgDFhnuKv_zIlZ9ixoEksBy26_LSX7C/view)
 
-Analyzed the inequalities in medical accessibility by region and its implications
-- Investigated 1,000 samples per each region from the database for all Korean addresses, with a total of 17 regions.
-- Using a commercial navigation API, calcuated the time to get from each address to the nearest emergency medical facility.
-- Analyzed the relationship between the average accessibilty time and medical service index such as the survival rate from heart attacks. 
-- Removed the effects of other potential variables through regression.
-- Conclusion: emergency medical accessibility differs signifcantly by region, and the difference is likely affecting its fatality rate.
-- A comprehensive project involving economics, statistics, data preprocessing, and programming. 
+Analyzed the inequalities in medical accessibility by region and its implications <br>
+* Investigated 1,000 samples per each region from the database for all Korean addresses, with a total of 17 regions.
+* Using a commercial navigation API, calcuated the time to get from each address to the nearest emergency medical facility.
+* Analyzed the relationship between the average accessibilty time and medical service index such as the survival rate from heart attacks. 
+* Removed the effects of other potential variables through regression.
+* Conclusion: emergency medical accessibility differs signifcantly by region, and the difference is likely affecting its fatality rate.
+* A comprehensive project involving economics, statistics, data preprocessing, and programming. 
 ##  
 
 ### _COVID-19 CT SCAN Detection_ | Spring 2020
@@ -47,8 +47,8 @@ Analyzed the inequalities in medical accessibility by region and its implication
 [Final Presentation](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
 
 A graduate level research that developed methods to diagnose COVID-19 with CT scans of lungs infected with COVID-19
-- Collaborated with graduate students to expansively apply diverse deep learning, statistical machine learning, and visualization methods to COVID-19 diagnosis
-- Final project for the semester
+* Collaborated with graduate students to expansively apply diverse deep learning, statistical machine learning, and visualization methods to COVID-19 diagnosis
+* Final project for the semester
 ##  
 
 ### _Data Consulting Service for Crowdfunding_ | Fall 2019
@@ -60,10 +60,10 @@ A graduate level research that developed methods to diagnose COVID-19 with CT sc
 
 Distributed a consulting service on web, which predicted the likelihood of a crowd funding project and suggested the ways to improve it using machine learning and visualization
 
-- Used data from Kickstaters
-- Adopted a NLP model and statistical machine learning models
-- Worked with a clear distribution of roles as a backend engineer, a modeling engineer, and a frontend engineer 
-- Utilized PostgreSQL for efficient data management
+* Used data from Kickstaters
+* Adopted a NLP model and statistical machine learning models
+* Worked with a clear distribution of roles as a backend engineer, a modeling engineer, and a frontend engineer 
+* Utilized PostgreSQL for efficient data management
 ##  
 
 ### _Information Protection R&D Data Challenge 2019 Game-bot-detection Competition_ | Sep 2019
@@ -73,9 +73,9 @@ Distributed a consulting service on web, which predicted the likelihood of a cro
 [Prize Details](https://www.kisis.or.kr/kisis/subIndex/282.do)
 
 A competition to detect game bots in MMORPG AION by analyzing the game logs
-- Managed 120GB of game log data
-- Developed our own index for bot detection by analyzing individual logs on a daily scale
-- Used the index on a statistical machine learning model, which increased the f1 score by 20 points
+* Managed 120GB of game log data
+* Developed our own index for bot detection by analyzing individual logs on a daily scale
+* Used the index on a statistical machine learning model, which increased the f1 score by 20 points
 ##  
 
 ### _Sports Gear Brand 'Pulse'_ | May 2019 - Current
@@ -84,8 +84,8 @@ A competition to detect game bots in MMORPG AION by analyzing the game logs
 [Store Link](https://smartstore.naver.com/pulz) <br>
 
 Founded a sports gear brand
-- Increased business efficiency by outsourcing and automation
-- Gained an insight in starting and running a company
-- Sourced, designed, and marketed the product
-- All products were sold through an e-commerceplatform
+* Increased business efficiency by outsourcing and automation
+* Gained an insight in starting and running a company
+* Sourced, designed, and marketed the product
+* All products were sold through an e-commerceplatform
 ##  
