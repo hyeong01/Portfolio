@@ -14,7 +14,7 @@ E-mail: heeyoungmy@yonsei.ac.kr </br>
 [Study Log](https://hyeong01.github.io/categories/) </br>
 
 Excelled in competitions for object detection, relation extraction, open domain question answering and optimization of models. Studied deep learning models and frameworks such as Docker and HuggingFace.
-##  
+---
 
 ### _Machine Learning Optimization Seminar_ | Spring 2020
 `#Python` `#Deep Learning` `#CNN` `#C` `#MATLAB` `#Tensorflow` `#Linux` `#AWS` `#OpenMP` `#National Taiwan University` `#Graduate School of CS`
