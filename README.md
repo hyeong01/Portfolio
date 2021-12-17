@@ -1,6 +1,6 @@
 # Portfolio
 ## About
-This is a supplementary information for the contents from CV and statement of Purpose.
+This is a supplementary information for the contents from CV and Statement of Purpose.
 
 ## Projects
 
