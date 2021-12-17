@@ -1,7 +1,6 @@
 # Portfolio
 ## About
-Name: Hee Young, Jung </br>
-E-mail: heeyoungmy@yonsei.ac.kr </br>
+This is supplementary information for the contents from CV and statement of purpose.
 
 ## Projects
 
