@@ -88,5 +88,5 @@ Founded a sports gear brand
 - Increased business efficiency by outsourcing and automation
 - Gained an insight in starting and running a company
 - Sourced, designed, and marketed the product
-- All products were sold through a e-commerceplatform
+- All products were sold through an e-commerceplatform
 #
