@@ -46,7 +46,7 @@ Analyzed the inequalities in medical accessibility by region and its implication
 
 [Final Presentation](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
 
-A graduate level research that developed methods to diagnose COVID-19 with CT scans of lungs infected with COVID-19
+A graduate level research that developed methods to diagnose COVID-19 with CT scans of lungs infected with COVID-19 <br>
 * Collaborated with graduate students to expansively apply diverse deep learning, statistical machine learning, and visualization methods to COVID-19 diagnosis
 * Final project for the semester
 ##  
@@ -58,8 +58,7 @@ A graduate level research that developed methods to diagnose COVID-19 with CT sc
 [How to Use](https://github.com/whoareyouwhoami/KickHelpers.com) <br>
 [How to Use (Video)](https://www.youtube.com/watch?v=Ip4ZgvXLvSI)
 
-Distributed a consulting service on web, which predicted the likelihood of a crowd funding project and suggested the ways to improve it using machine learning and visualization
-
+Distributed a consulting service on web, which predicted the likelihood of a crowd funding project and suggested the ways to improve it using machine learning and visualization <br>
 * Used data from Kickstaters
 * Adopted a NLP model and statistical machine learning models
 * Worked with a clear distribution of roles as a backend engineer, a modeling engineer, and a frontend engineer 
@@ -72,7 +71,7 @@ Distributed a consulting service on web, which predicted the likelihood of a cro
 [GitHub Link](https://github.com/Nanjangpan/Game-bot-detection) <br>
 [Prize Details](https://www.kisis.or.kr/kisis/subIndex/282.do)
 
-A competition to detect game bots in MMORPG AION by analyzing the game logs
+A competition to detect game bots in MMORPG AION by analyzing the game logs <br>
 * Managed 120GB of game log data
 * Developed our own index for bot detection by analyzing individual logs on a daily scale
 * Used the index on a statistical machine learning model, which increased the f1 score by 20 points
@@ -83,7 +82,7 @@ A competition to detect game bots in MMORPG AION by analyzing the game logs
 
 [Store Link](https://smartstore.naver.com/pulz) <br>
 
-Founded a sports gear brand
+Founded a sports gear brand <br>
 * Increased business efficiency by outsourcing and automation
 * Gained an insight in starting and running a company
 * Sourced, designed, and marketed the product
