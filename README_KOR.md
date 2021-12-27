@@ -36,10 +36,10 @@
 ### _Naver AI 부스트캠프_ | Fall 2021
 `#Python` `#Linux` `#PyTorch` `#NLP` `#CV` `#Optimization` `#Open Domain Question Answering` `#Relation Extraction` `#HuggingFace`
 
-[Object Detection Competition Code](https://github.com/boostcampaitech2/image-classification-level1-30)
-[Relation Extraction Competition Code](https://github.com/boostcampaitech2/klue-level2-nlp-08) | [Relation Extraction Competition 리뷰](https://cheonggyemountain-sherpa.github.io/KLUE_RE/)
-[Open Domain Question Answering Competition Code](https://cheonggyemountain-sherpa.github.io/MRC-Open-Domain-Question-Answering/) | [Open Domain Question Answering Competition 리뷰](https://cheonggyemountain-sherpa.github.io/MRC-Open-Domain-Question-Answering/)
-[Final Project - Image to Poem Code](https://github.com/boostcampaitech2/final-project-level3-nlp-08)
+[Object Detection Competition Code](https://github.com/boostcampaitech2/image-classification-level1-30) </br>
+[Relation Extraction Competition Code](https://github.com/boostcampaitech2/klue-level2-nlp-08) | [Relation Extraction Competition 리뷰](https://cheonggyemountain-sherpa.github.io/KLUE_RE/) </br>
+[Open Domain Question Answering Competition Code](https://cheonggyemountain-sherpa.github.io/MRC-Open-Domain-Question-Answering/) | [Open Domain Question Answering Competition 리뷰](https://cheonggyemountain-sherpa.github.io/MRC-Open-Domain-Question-Answering/) </br>
+[Final Project - Image to Poem Code](https://github.com/boostcampaitech2/final-project-level3-nlp-08) </br>
 [학습 기록](https://hyeong01.github.io/categories/)
 
 
