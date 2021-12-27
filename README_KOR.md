@@ -34,43 +34,16 @@
 
 ## 프로젝트
 
-### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_
-`#Python` `#Machine Learning` `#우수상`
+### _Machine Learning Optimization Seminar_ | Spring 2020
+`#Python` `#Deep Learning` `#CNN` `#C` `#MATLAB` `#Tensorflow` `#Linux` `#AWS` `#OpenMP` `#대만국립대학교` `#컴퓨터과학과 대학원`
 
-[GitHub Link](https://github.com/Nanjangpan/Game-bot-detection) <br>
-[수상내역](https://www.kisis.or.kr/kisis/subIndex/282.do)
+[Paper1](https://drive.google.com/file/d/1wB07L8HOzBTs1myBzXWTezAlmOZYZ87b/view?usp=sharing), [Paper2](https://drive.google.com/file/d/1P8NCw7mchoivFPdRvJveuB0F2BsWJUwr/view?usp=sharing), [Paper4](https://drive.google.com/file/d/1T8DCpRTjOoDEUBXWG9-hE6qKDHYw1KCF/view?usp=sharing), [Paper5](https://drive.google.com/file/d/1819iXIHv5MEqzTQLBIK3xRthhZJ7nddy/view?usp=sharing), [Paper6](https://drive.google.com/file/d/1r4pRdmk62SNxR1ANTgq7DiJXNDPa-1S5/view?usp=sharing)
 
-MMORPG AON의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇을 탐지하는 대회
-- 데이터 분석, 모델 제작 담당
-- 대용량 로그 데이터를 전처리
-- 매크로 탐지 지표 개발
+MATLAB으로 구현한 CNN을 OpenMP를 통해 C로 재설계하여 학습 속도를 증가시키는 세미나 수업
+- C, Matlab, Python부터, AWS, 리눅스 환경, 컴퓨터 메모리의 작동 방식 등 CS 지식까지 모두 필요했던 통섭적인 세미나 
 ##
 
-### _COVID-19 CT SCAN Detection_
-`#Python` `#Statistical ML` `#Deep Learning` `#대만국립대학교` `#산업공학과 대학원`
-
-[최종 발표](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
-
-코로나 환자의 폐를 분석하여 코로나 감염 여부를 확인하는 프로젝트
-- 한 학기 동안 박사, 석사, 학사생 총 3명이 함께 여러 과제와 프로젝트를 진행
-- 학기말 최종 프로젝트
-- DL 모델 훈련, tensorboard를 이용한 시각화, 데이터 분석 담당
-##
-
-### _크라우드 펀딩 데이터 컨설팅 서비스_
-`#WEB` `#Python` `#Postgre SQL` `#Linux` `#AWS` `#BERT` `#Statistical ML`
-
-[Github Link](https://github.com/whoareyouwhoami/ProjectTellus) <br>
-[사용 방법](https://github.com/whoareyouwhoami/KickHelpers.com) <br>
-[사용 방법(동영상)](https://www.youtube.com/watch?v=Ip4ZgvXLvSI)
-
-킥스타터 데이터를 이용 크라우드 펀딩 프로젝트의 성공 확률 및 컨설팅 제공
-- NLP 모델, 통계적 머신러닝 모델 구현 및 학습
-- 백엔드 엔지니어, 프론트엔드 엔지니어들과 명확한 경계를 가지고 협업하는 값진 기회
-- SQL 실사용
-##
-
-### _응급 의료 접근성 분석 과제_
+### _응급 의료 접근성 분석 과제_ | Fall 2020
 `#의료경제학 학기 프로젝트` `#통계조사` `#회귀분석` `#크롤링` `#Python`
 
 [Source Codes](https://github.com/hyeong01/Emergency-Medical-Accessibility) <br>
@@ -84,7 +57,43 @@ MMORPG AON의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇
 - 경제학, 통계학, 데이터 전처리, 기술 스택, 논리 전개 등 대학에서 습득한 지식을 총망라하는 프로젝트
 ## 
 
-### _인텔 AI 드론 챌린지_
+### _COVID-19 CT SCAN Detection_ | Spring 2020
+`#Python` `#Statistical ML` `#Deep Learning` `#대만국립대학교` `#산업공학과 대학원`
+
+[최종 발표](https://velog.io/@hyeong/COVID-19-CT-SCAN-Data)
+
+코로나 환자의 폐를 분석하여 코로나 감염 여부를 확인하는 프로젝트
+- 한 학기 동안 박사, 석사, 학사생 총 3명이 함께 여러 과제와 프로젝트를 진행
+- 학기말 최종 프로젝트
+- DL 모델 훈련, tensorboard를 이용한 시각화, 데이터 분석 담당
+##
+
+### _크라우드 펀딩 데이터 컨설팅 서비스_ | Fall 2019
+`#WEB` `#Python` `#Postgre SQL` `#Linux` `#AWS` `#BERT` `#Statistical ML`
+
+[Github Link](https://github.com/whoareyouwhoami/ProjectTellus) <br>
+[사용 방법](https://github.com/whoareyouwhoami/KickHelpers.com) <br>
+[사용 방법(동영상)](https://www.youtube.com/watch?v=Ip4ZgvXLvSI)
+
+킥스타터 데이터를 이용 크라우드 펀딩 프로젝트의 성공 확률 및 컨설팅 제공
+- NLP 모델, 통계적 머신러닝 모델 구현 및 학습
+- 백엔드 엔지니어, 프론트엔드 엔지니어들과 명확한 경계를 가지고 협업하는 값진 기회
+- SQL 실사용
+##
+
+### _정보보호 R&D 데이터챌린지 2019 Game-bot-detection 대회_ | Sep 2019
+`#Python` `#Machine Learning` `#우수상`
+
+[GitHub Link](https://github.com/Nanjangpan/Game-bot-detection) <br>
+[수상내역](https://www.kisis.or.kr/kisis/subIndex/282.do)
+
+MMORPG AON의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇을 탐지하는 대회
+- 데이터 분석, 모델 제작 담당
+- 대용량 로그 데이터를 전처리
+- 매크로 탐지 지표 개발
+##
+
+### _인텔 AI 드론 챌린지_ | Jan 2021
 `#드론` `#Python` `#MobileNet2`
 
 [수상내역](https://www.kiise.or.kr/academy/board/academyNewsView.fa)
@@ -94,21 +103,13 @@ MMORPG AON의 게임 로그를 활용하여 머신러닝 기법으로 게임 봇
 - 나이 차이가 큰 팀원들과 함께 협업하는 새로운 경험
 ##
 
-### _카카오톡 자연어처리 MBTI 분류 프로젝트_
+### _카카오톡 자연어처리 MBTI 분류 프로젝트_ | Fall 2019
 `#YBIGTA 동아리 학기말 프로젝트` `#BERT`
 
 카카오톡 대화를 입력하면 MBTI를 알려주는 서비스
 - 네이버 MBTI 카페 텍스트 데이터 이용 KoBert 학습
 - 모델 학습과 구현 담당
 ##
-
-### _Machine Learning Optimization Seminar_
-`#Python` `#Deep Learning` `#CNN` `#C` `#MATLAB` `#Tensorflow` `#Linux` `#AWS` `#OpenMP` `#대만국립대학교` `#컴퓨터과학과 대학원`
-
-[Paper1](https://drive.google.com/file/d/1wB07L8HOzBTs1myBzXWTezAlmOZYZ87b/view?usp=sharing), [Paper2](https://drive.google.com/file/d/1P8NCw7mchoivFPdRvJveuB0F2BsWJUwr/view?usp=sharing), [Paper4](https://drive.google.com/file/d/1T8DCpRTjOoDEUBXWG9-hE6qKDHYw1KCF/view?usp=sharing), [Paper5](https://drive.google.com/file/d/1819iXIHv5MEqzTQLBIK3xRthhZJ7nddy/view?usp=sharing), [Paper6](https://drive.google.com/file/d/1r4pRdmk62SNxR1ANTgq7DiJXNDPa-1S5/view?usp=sharing)
-
-MATLAB으로 구현한 CNN을 OpenMP를 통해 C로 재설계하여 학습 속도를 증가시키는 세미나 수업
-- C, Matlab, Python부터, AWS, 리눅스 환경, 컴퓨터 메모리의 작동 방식 등 CS 지식까지 모두 필요했던 통섭적인 세미나 
 
 ## 수업
 아래는 연세대학교에서 경제학과 응용통계학을 전공하며 이수한 수업들입니다
