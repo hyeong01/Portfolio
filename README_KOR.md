@@ -19,11 +19,10 @@
   * [_Getting Over There_](https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/) 뿅망치 플레이 프로젝트
   * 카카오톡 대화 MBTI 분류 프로젝트
 * 다이슨 코리아 재무팀 (2019.01.10 ~ 2019.2.28)
-  * E-marketplace 데이터 분석
-  * 판매 데이터 
+  * E-marketplace 데이터 분석 및 분석 자동화
 * Hitachi Automotives Tokyo HQ IT Team (2019.07)
   * Tableau 이용 판매량 데이터 분석
-  * 재무재표 작성 자동화 구현
+  * RPA 개발을 위한 데이터베이스와 엑셀 
 * [대만국립대학교](https://www.ntu.edu.tw/english/index.html) (NTU) 교환학생 (2020.02 ~ 2020.06)
   * [Graduate Institute of Electronics Engineering](https://www.ntu.edu.tw/english/academics/academics_electrical.html) Machine Learning Optimization Seminar
   * [Graduate Institute of Industrial Engineering](https://ie.ntu.edu.tw/english/Default.html) Data Analytics Semester Project
