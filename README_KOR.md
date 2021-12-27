@@ -42,7 +42,7 @@
 [Final Project - Image to Poem Code](https://github.com/boostcampaitech2/final-project-level3-nlp-08) </br>
 [학습 기록](https://hyeong01.github.io/categories/)
 
-Object detection, relation extraction, open domain question answering 등 다양한 대회와 프로젝트에 진행하며 딥러닝 모델과 Pytorch, 그리고 Huggingface의 숙련도를 높일 수 있는 기회를 가졌다. Dense embedding을 이용한 효율화를 가장 집중적으로 연구하였다.
+Object detection, relation extraction, open domain question answering 등 다양한 대회와 프로젝트에 진행하며 딥러닝 모델과 Pytorch, 그리고 Huggingface의 숙련도를 높일 수 있는 기회를 가졌다. SentenceBert와 dense embedding retrieval 등 dense embedding을 이용한 효율화를 가장 집중적으로 연구하였다.
 ##
 
 ### _Machine Learning Optimization Seminar_ | Spring 2020
