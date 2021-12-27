@@ -13,7 +13,7 @@
   * 판매 데이터 이상 수치 분석
 * 대한민국 육군 복무 (2016.11.21 ~ 2020.08.20)
   * 육군 통역병
-  * 국방부 직할부대 비서병
+  * 국방부 직할부대 
 * 연세대학교 빅데이터 동아리 와이빅타 14기 (2019.01 ~ 2020.02)
   * YBIGTA Science Team
   * [_Getting Over There_](https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/) 뿅망치 플레이 프로젝트
