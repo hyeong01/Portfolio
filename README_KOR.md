@@ -71,7 +71,7 @@ MATLAB으로 구현한 CNN을 OpenMP를 통해 C로 재설계하여 학습 속�
 ### _시계열 분석 포트폴리오_ | Fall 2020
 `#시계열 분석` `#시각화` `#R`
 
-[분석 발표](https://drive.google.com/file/d/1oxgDFhnuKv_zIlZ9ixoEksBy26_LSX7C/view)
+[분석 발표](https://drive.google.com/file/d/1eNXl9mY37fa7VErJzDMnl2ZtUjLny7en/view?usp=sharing)
 
 정상성 검증 및 확보, 계절성 확인 및 모형 선정, 예측치 도출 및 시각화
 ##
